@@ -1,5 +1,3 @@
-# deep-learning-challenge
-
 # Report on the Neural Network Model for Alphabet Soup
 ## Overview of the Analysis:
 The objective of this analysis was to develop a deep learning model using a neural network to predict the success of funding applicants for Alphabet Soup, a nonprofit foundation. The model aimed to classify whether organizations would effectively use funding based on provided metadata about past recipients.
